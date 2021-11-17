@@ -47,8 +47,4 @@ the License.
 ---------------------------------------------------------------------------------
 Screenshot hasil aplikasi saat di run
 
-![image](https://user-images.githubusercontent.com/67674667/141723984-2830f02e-dedb-4198-9a08-c557c8fe63ea.png)
-![image](https://user-images.githubusercontent.com/67674667/141723999-e9740649-9239-4c6f-a5b3-04db68e7597f.png)
-![image](https://user-images.githubusercontent.com/67674667/141724010-7f1f3dc0-e807-422b-b376-e5d88c3183c8.png)
-![image](https://user-images.githubusercontent.com/67674667/141724024-7df19d3f-5845-444a-8fc4-7bb9aba2a4bd.png)
-![image](https://user-images.githubusercontent.com/67674667/141724029-4af9ab10-8df3-4f9f-aaff-77d0c432b757.png)
+![image](https://user-images.githubusercontent.com/67674667/141723984-2830f02e-dedb-4198-9a08-c557c8fe63ea.png) ![image](https://user-images.githubusercontent.com/67674667/141723999-e9740649-9239-4c6f-a5b3-04db68e7597f.png) ![image](https://user-images.githubusercontent.com/67674667/141724010-7f1f3dc0-e807-422b-b376-e5d88c3183c8.png) ![image](https://user-images.githubusercontent.com/67674667/141724024-7df19d3f-5845-444a-8fc4-7bb9aba2a4bd.png) ![image](https://user-images.githubusercontent.com/67674667/141724029-4af9ab10-8df3-4f9f-aaff-77d0c432b757.png)
